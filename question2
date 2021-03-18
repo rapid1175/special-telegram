@@ -8,3 +8,4 @@ if [ -z "$is_funny" ]; then
 else echo "This is NOT funny"
 
 fi
+%%
