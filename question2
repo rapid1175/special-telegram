@@ -1,0 +1,10 @@
+#!/bin/bash
+# saved as funny.sh
+
+is_funny=$1
+
+if [ -z "$is_funny" ]; then
+        echo "This is funny"
+else echo "This is NOT funny"
+
+fi
